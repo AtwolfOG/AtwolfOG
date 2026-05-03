@@ -31,7 +31,6 @@ I enjoy turning complex problems into simple, elegant solutions and crafting dig
 - Express.js
 - Golang
 - Python
-- REST APIs / Authentication systems  
 
 ### Database & Tools
 - MongoDB / PostgreSQL  
